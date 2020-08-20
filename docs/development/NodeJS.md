@@ -21,6 +21,7 @@ NodeJS had certain advantages when it comes to developing web-apps. Main thing i
 **It makes machines work harder**
 Secondly, it makes use of a computer's processing capacity better:
 There are cases where the server has to talk to some external system to do the job it is requested of. When this happens the server pauses all activities and wait for the information to come. This is like the idle villager in Age of Empires. 
+
 ![Idle Villager](idle_villager.png)
 
 This obviously isn't the best way of making use of machines. So people have tried to find ways of avoiding the idle villager scenario. But none has been as successful as NodeJS. 
@@ -40,6 +41,7 @@ For example, you want to search a PDF for text using a Nodejs server. Here's som
 Not just that, this someone has shared their work in such a way that they will quickly teach your nodejs server how to do it:
 Just say `npm install pdf-to-text` in the right place
 This makes your nodejs server a learning machine of a machine
+
 ![Sharingan](tenor.gif)
 
 
