@@ -2,7 +2,7 @@
 
 This is a learning manual for us to help people become
 - an effective Tester
-- an effective Developer
+- [an effective Developer](development/Introduction.md)
 - an effective Product Manager
 
 
