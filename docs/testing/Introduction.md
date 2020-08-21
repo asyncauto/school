@@ -23,7 +23,7 @@ This is usually:
 	 
 2. Create a map before testing  
 	Before you start testing, you should know when will the testing be over. What features do I need to cover? Create a list of those. Higher the granularity the better. Example:  
-    
+
 		- [ ] User Authentication is working
 			- [ ] Sign up page is loading
 			- [ ] Sign up is working
@@ -34,10 +34,10 @@ This is usually:
 				- [ ] reset password email is received
 				- [ ] reset password is working
 3. Systematically cover the map
-Once you have the map of features to be tested, it's exploration time. ([[Set up your app locally]] if you haven't already. ) Go through each of the feature and add notes against them if you notice something abnormal. Share your report with the product and development team.
+Once you have the map of features to be tested, it's exploration time. ([Set up your app locally]() if you haven't already. ) Go through each of the feature and add notes against them if you notice something abnormal. Share your report with the product and development team.
 
 
-**Guidelines for covering cases exhaustively** 
-- Identify different user roles and their functions. For each role, the implementation might be different.
-- *Routes* will have the list of all URLs used in the app. 
+**Guidelines for covering cases exhaustively**   
+- Identify different user roles and their functions. For each role, the implementation might be different.  
+- *Routes* will have the list of all URLs used in the app.   
 
