@@ -14,6 +14,13 @@ extra:
         - about
         - navigation
 
+nav:
+    - Development:
+        - Introduction: 'development/introduction.md'
+        - Nodejs : 'development/nodejs.md'
+        - Sailsjs : 'development/sailsjs.md'
+        - Challenges: 'development/challenges/index.md'
+
 plugins:
     - search
     # - encryptcontent:
