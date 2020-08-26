@@ -45,8 +45,8 @@ Find detailed references at https://semantic-ui.com/
 
 
 ### Challenges
-#### 1. Build a form
-Fields:
+#### 1. Build a form  
+Fields:  
 - Name -  Text
 - Email - Email
 - Gender - Dropdown
@@ -67,7 +67,7 @@ Expected request body:
  }`
 
 
-#### 2. Build a listing page
+#### 2. Build a listing page  
 
 ![Desktop view](challenge_layout_desktop.png)
 
@@ -85,12 +85,13 @@ Expected request body:
 - Loader
 - Sidebar
 
-### Challenges
-Wireframes:
+### Challenge
+Create a page with these specifications:   
+Wireframes:  
 ![normal](ch_basic.png)
 ![sidebar](ch_sidemenu.png)
 ![modal](ch_loader.png)
-Expected behaviour:
+Expected behaviour:  
 1. Hamburger menu opens sidebar menu
 2. Hover over a button shows a popup with text
 3. A button click opens a modal with a loader segment inside
@@ -107,3 +108,4 @@ Expected behaviour:
 - rating
 - shape
 ### Challenges
+#### Challenge 1
