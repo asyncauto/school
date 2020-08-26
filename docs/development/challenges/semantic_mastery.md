@@ -41,7 +41,7 @@ Find detailed references at https://semantic-ui.com/
 	- Mobile responsive
 	- Gridded pages
 - APIs
-	- Form validation
+	- Form validation  (checkout usage, examples and settings)
 
 
 ### Challenges
@@ -79,14 +79,23 @@ Expected request body:
 
 ### Try out
 - Image
-- Popus
+- Popups
 - Modal
 - Messages
 - Loader
-- Breadcrumbs
 - Sidebar
 
 ### Challenges
+Wireframes:
+![normal](ch_basic.png)
+![sidebar](ch_sidemenu.png)
+![modal](ch_loader.png)
+Expected behaviour:
+1. Hamburger menu opens sidebar menu
+2. Hover over a button shows a popup with text
+3. A button click opens a modal with a loader segment inside
+
+
 
 
 ## Level 3 - Advanced
