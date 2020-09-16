@@ -20,6 +20,8 @@ nav:
         - Nodejs : 'development/nodejs.md'
         - Sailsjs : 'development/sailsjs.md'
         - Challenges: 'development/challenges/index.md'
+        - Managing Timestamps: 'development/managing_timestamps.md'
+    
 
 plugins:
     - search
