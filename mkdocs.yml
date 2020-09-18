@@ -19,6 +19,7 @@ nav:
         - Introduction: 'development/introduction.md'
         - Nodejs : 'development/nodejs.md'
         - Sailsjs : 'development/sailsjs.md'
+        - Semantic UI : 'development/semantic.md'
         - Challenges: 'development/challenges/index.md'
         - Managing Timestamps: 'development/managing_timestamps.md'
     
