@@ -91,31 +91,30 @@ Best way to learn:
 ## Topics to be covered in 102: 
 
 - Elements 
-	- Placeholder - 102
-	- Rail - 102
-	- Reveal - 102
+	- [Placeholder](https://fomantic-ui.com/elements/placeholder.html)
+	- [Rail](https://fomantic-ui.com/elements/rail.html)
+	- [Reveal](https://fomantic-ui.com/elements/reveal.html)
 - Views 
-	- Ads 102
-	- Comment - 102
-	- Feed - 102
-	- Item - 102
+	- [Ads](https://fomantic-ui.com/views/advertisement.html)
+	- [Comment](https://fomantic-ui.com/views/comment.html)
+	- [Feed](https://fomantic-ui.com/views/feed.html)
+	- [Item](https://fomantic-ui.com/views/item.html)
 - Modules 
-	- Accordian - 102
-	- Calender - 102 
-	- Dimmer - 102
-	- Embed 102
-	- Progress - 102
-	- Rating - 102
-	- Search - 102
-	- Shape - 102
-	- Sidebar - 102
-	- Sticky - 102 
-	- Toast - 102
-	- Transition - 102
+	- [Accordian](https://fomantic-ui.com/modules/accordion.html)
+	- [Calender](https://fomantic-ui.com/modules/calendar.html) 
+	- [Dimmer](https://fomantic-ui.com/modules/dimmer.html)
+	- [Embed](https://fomantic-ui.com/modules/embed.html)
+	- [Progress](https://fomantic-ui.com/modules/progress.html)
+	- [Rating](https://fomantic-ui.com/modules/rating.html)
+	- [Search](https://fomantic-ui.com/modules/search.html)
+	- [Shape](https://fomantic-ui.com/modules/shape.html)
+	- [Sidebar](https://fomantic-ui.com/modules/sidebar.html)
+	- [Sticky](https://fomantic-ui.com/modules/sticky.html) 
+	- [Toast](https://fomantic-ui.com/modules/toast.html)
+	- [Transition](https://fomantic-ui.com/modules/transition.html)
 - Behavior 
-	- API - 102
-	- Form validation
-	- Visibility - 102
+	- [API](https://fomantic-ui.com/behaviors/api.html)
+	- [Visibility](https://fomantic-ui.com/behaviors/visibility.html)
 
 ## Topics to be covered in 103: 
 
