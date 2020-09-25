@@ -23,11 +23,8 @@ nav:
         - Challenges: 'development/challenges/index.md'
         - Managing Timestamps: 'development/managing_timestamps.md'
     - Courses: 
-        - Semantic 101: 'courses/semantic_101.md'
-        - Git 101: 'courses/git_101.md'
-        - Sails 101: 'courses/sails_101.md'
-        - Javascript 101: 'courses/javascript_101.md'
-        - Testing 101: 'courses/testing_101.md'
+        - Engineer - Level 1: 'courses/engineer_level_1.md'
+        - Testing - Level 1: 'courses/testing_101.md'
     
 
 plugins:
